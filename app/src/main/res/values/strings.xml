@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">droidcafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyo">Froyo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="order_label_text">Order Notes</string>
+    <string name="name_label_text">Name</string>
+    <string name="enter_name_hint">Isi nama lengkap</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_address_hint">Isi alamat sekarang</string>
+    <string name="phone_label_string">Phone</string>
+    <string name="enter_phone_hint">Isi dengan nomor telepon</string>
+    <string name="choose_delivery_method">Choose Delivery Method</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="city">City</string>
+    <string-array name="city">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Subang</item>
+    </string-array>
+    <string name="selected_item">Anda Suda Memilih Kota</string>
+    <string name="note_label_text">Note</string>
+    <string name="enter_note_hint">Tambahkan catatan pesanan anda</string>
+
+    <string name="text_intro">Droid Desserts</string>
+</resources>
